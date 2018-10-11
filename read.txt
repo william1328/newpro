@@ -1,3 +1,4 @@
 git a
 git b
 git add
+git commit
